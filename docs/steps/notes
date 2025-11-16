@@ -1,2 +1,8 @@
 notes from what ive learned so far
 1. how to operate github
+ under this ive learned how to use various commands to update my github,
+		~git add, commit --m , push origin main.
+something to be caugtous of is making sure your updating your specific branch and not changing something else. to do this i make sure i constantly run
+		~git branch
+that way i avoid pushing the wrong thing. anothing thing is how you push. pushing origin main adds it to the main repo/master repo. another way to add what your doing is push <branch>
+2. constantly run git status~ i find this very important as it shows your progress and helps avoid making unessessary pushes. Especially when working with a team.
